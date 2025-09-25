@@ -6,5 +6,9 @@ public class Test {
         System.out.println("Masukkan umur adalah: ");
         umur = sc.nextInt();
         System.out.println("umur anda adalah "+umur);
+        int tinggi;
+        System.out.println("Berapa tinggi saya: ");
+        tinggi = sc.nextInt();
+        System.out.println("Berapa tinggi saya : " +tinggi);
     }
 }
