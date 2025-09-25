@@ -10,5 +10,9 @@ public class Test {
         System.out.println("Berapa tinggi saya: ");
         tinggi = sc.nextInt();
         System.out.println("Berapa tinggi saya : " +tinggi);
+        int Beratbadan;
+        System.out.println("Berapa berat saya: ");
+        Beratbadan = sc.nextInt();
+        System.out.println(" Berapa berat saya: "+ Beratbadan);
     }
 }
